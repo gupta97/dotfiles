@@ -1,4 +1,4 @@
-#  bash_profile for gupta97
+#  
 #  ---------------------------------------------------------------------------
 #
 #  Description:  This file holds all my BASH configurations and aliases
